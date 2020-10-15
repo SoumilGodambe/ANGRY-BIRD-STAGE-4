@@ -1,2 +1,2 @@
-# ANGRY-BIRD-STAGE-4
-AB4
+# angryBirdsStage2
+Angry Birds stage 2 with Class Inheritance and Images
